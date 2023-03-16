@@ -23,9 +23,9 @@ VALUES
 ("Alucard", "Dynamite", 1, 3),
 ("Gribsly", "Slabano", 5, null),
 ("Gerald", "Francis", 3, 3),
-("Jones", "Grimoire", 4, 5),
+("Jones", "Grimoire", 4, 6),
 ("Bethanovka", "Duceault", 6, null),
-("Meats", "Classic", 4, 5);
+("Meats", "Classic", 4, 6);
 
 -- SELECT * 
 -- FROM role join department ON role.department_id = department.id;
