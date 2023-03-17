@@ -20,6 +20,8 @@ Run index.js to explore a variety of different features in your command line int
 - Creating new Departments, Roles, and Employees
 - Updating Employee roles
 [Here is a video demonstrating the functionality of the script](https://watch.screencastify.com/v/EErA4KXDXazBM1RAvVrP)<br>
+Here is a screenshot of the application: ![image](https://user-images.githubusercontent.com/123116188/225815928-89940e4b-31a0-41bd-a19d-8278d1466c68.png)
+
 ## Contributing
 - [Chalk](https://github.com/chalk/chalk)
 - [MYSQL2](https://github.com/sidorares/node-mysql2#readme)
